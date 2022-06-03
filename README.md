@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CaptiDoor
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on Nothing yet, but you can make suggestions for any of my projects here
 - 📫 How to reach me: You can reach me at jasperdavdsn@gmail.com
 
