@@ -1,3 +1,1 @@
-Right now I'm really interested in Compiler/Programming Langauge Design and Hardware Design!
-
-<img src="https://raw.githubusercontent.com/JasperDavidson/JasperDavidson/contr-graph-gif/profile-3d-contrib/profile-night-rainbow.svg">
+Right now I'm really interested in Compiler/Programming Langauge Design and Hardware Design! Hoping to contribute to projects like Spade in the future
