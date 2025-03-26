@@ -1,1 +1,1 @@
-Right now I'm really interested in Compiler/Programming Langauge Design and Computer Architecture! I'm currently working on a custom compiler for the C programming language
+Right now I'm really interested in Compiler/Programming Langauge Design and Computer Architecture! I'm currently working on Mantis: A portable, statically-typed assembly language based on a virtual instruction set
