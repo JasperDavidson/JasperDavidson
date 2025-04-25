@@ -1,1 +1,1 @@
-Right now I'm really interested in Compiler/Programming Langauge Design and Computer Architecture! I'm currently working on Mantis: A portable, statically-typed assembly language based on a virtual instruction set
+Right now I'm really interested in the intersection of Compiler Design, Computer Systems/Architecture, and Machine Learning! I'm currently working on mini-ml, a tiny ml framework designed to generate efficient and verifiable compute graphs
