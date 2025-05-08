@@ -1,1 +1,1 @@
-Right now I'm really interested in the intersection of Compiler Design, Computer Systems/Architecture, and Machine Learning! I'm currently working on mini-ml, a tiny ml framework designed to generate efficient and verifiable compute graphs
+Right now I'm really interested in the intersection of Compiler Design, Computer Systems/Architecture, and Machine Learning!
